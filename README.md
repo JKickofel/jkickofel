@@ -1,5 +1,5 @@
 # 🧙‍♀️ Oi, eu sou a Jordana!
-- 🔭 Trabalhando em um jogo no gamemaker que incrementa teus poderes, pelo puro prazer de descobrir como fazer.<br> 🌱 Aprendendo JavaScript, violino e francês.<br> ⚡ O primeiro e mais bobo objetivo é fazer um simples app (Kotlin manda lembranças). E Sim, ele será útil para mim, o que já é motivo suficiente para criá-lo.
+- 🛠️ Trabalhando em um jogo no gamemaker que incrementa teus poderes, pelo puro prazer de descobrir como fazer.<br> 🌱 Aprendendo JavaScript, violino e francês.<br> ⚡ O primeiro e mais bobo objetivo é fazer um simples app (Kotlin manda lembranças). E Sim, ele será útil para mim, o que já é motivo suficiente para criá-lo.
 
 
 ## 🪂 Socials:
