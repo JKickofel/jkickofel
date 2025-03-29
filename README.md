@@ -24,14 +24,14 @@
 ---
 
 # 🧮 GitHub Stats:
-![JKickofel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkickofel&theme=bear&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JKickofel&theme=dark&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JKickofel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![JKickofel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkickofel&theme=bear&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=JKickofel&theme=bear&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JKickofel&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JKickofel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JKickofel&theme=bear&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
