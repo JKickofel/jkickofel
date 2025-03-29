@@ -25,8 +25,8 @@
 
 # 🧮 GitHub Stats:
 ![JKickofel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkickofel&theme=bear&show_icons=true)<br/>
-<!--![](https://nirzak-streak-stats.vercel.app/?user=JKickofel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JKickofel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=JKickofel&theme=dark&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JKickofel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
