@@ -3,7 +3,6 @@
 - 🌱 Aprendendo JavaScript, violino e francês.<br>
 - 🪂 O primeiro e mais bobo objetivo é fazer um simples app (Kotlin manda lembranças). E sim, ele será útil para mim, o que já é motivo suficiente para criá-lo.<br>
 - 🧶 Eu sou uma artesã! Veja no [Instagram](https://www.instagram.com/pontoesomatelier/).<br>
-- 📬 Para falar comigo, também pode me enviar um [email](mailto:jordana.grutzmann@gmail.com).
 
 ---
 
@@ -19,20 +18,18 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
 
 # 🧮 GitHub Stats:
 ![JKickofel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkickofel&theme=bear&show_icons=true&rank_icon=github)
-![](https://nirzak-streak-stats.vercel.app/?user=JKickofel&theme=bear&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JKickofel&theme=bear&hide_border=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JKickofel&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 <!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JKickofel&theme=bear&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JKickofel&theme=bear&no-frame=false&no-bg=true&margin-w=4)-->
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
